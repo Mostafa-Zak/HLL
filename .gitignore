@@ -1,3 +1,4 @@
-* .txt
-* .o
-* .exe
+*.txt
+*.o
+*.exe
+*.out
